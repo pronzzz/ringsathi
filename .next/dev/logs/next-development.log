@@ -1,6 +1,0 @@
-[161:34:24.540] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/pranavdwivedi/Public/Coding Projects/ringsathi/src/app'
-[161:34:24.553] Server  ERROR   ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/Users/pranavdwivedi/Public/Coding Projects/ringsathi/src/app'
-[161:34:24.613] Server  ERROR   ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/Users/pranavdwivedi/Public/Coding Projects/ringsathi/src/app'
-[161:34:24.742] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/pranavdwivedi/Public/Coding Projects/ringsathi/src/app'
-[161:34:24.815] Server  ERROR   ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/Users/pranavdwivedi/Public/Coding Projects/ringsathi/src/app'
-[161:34:24.819] Server  ERROR   ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/Users/pranavdwivedi/Public/Coding Projects/ringsathi/src/app'
