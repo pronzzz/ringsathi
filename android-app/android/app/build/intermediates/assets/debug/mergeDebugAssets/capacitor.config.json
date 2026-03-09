@@ -1,0 +1,9 @@
+{
+	"appId": "org.ringsathi.app",
+	"appName": "ringsathi",
+	"webDir": "../out",
+	"server": {
+		"url": "https://ringsathi.vercel.app",
+		"cleartext": true
+	}
+}
